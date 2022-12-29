@@ -37,7 +37,7 @@
             <th scope="row">{{ pet.petId }}</th>
             <td>{{ pet.petName }}</td>
             <td>{{ pet.petCode }}</td>
-            <td>{{ pet.petCode }}</td>
+            <td>{{ pet.typeName }}</td>
             <td>{{ pet.colorColor }}</td>
             <td>{{ pet.countryName }}</td>
             <td>

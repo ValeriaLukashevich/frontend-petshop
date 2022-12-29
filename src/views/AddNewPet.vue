@@ -111,15 +111,15 @@ export default {
       ],
       addPetRequest: {
             userId: sessionStorage.getItem('userId'),
-            name: "",
-            code: "",
+            name: '',
+            code: '',
             colorId: 0,
             countryId: 0,
             typeId: 0
           },
       addPetResponse: {
-        name: "",
-        code: "",
+        name: '',
+        code: '',
         colorId: 0,
         countryId: 0,
         typeId: 0
